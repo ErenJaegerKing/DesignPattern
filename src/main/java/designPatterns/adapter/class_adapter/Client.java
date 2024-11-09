@@ -1,5 +1,8 @@
 package designPatterns.adapter.class_adapter;
 
+import java.io.InputStream;
+import java.io.InputStreamReader;
+
 public class Client {
     public static void main(String[] args) {
         Computer computer = new Computer();
