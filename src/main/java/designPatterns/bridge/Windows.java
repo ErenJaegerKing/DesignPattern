@@ -1,7 +1,6 @@
 package designPatterns.bridge;
 
-public class Windows extends OperatingSystemVersion{
-
+public class Windows extends OperatingSystemVersion {
 
     public Windows(VideoFile videoFile) {
         super(videoFile);
