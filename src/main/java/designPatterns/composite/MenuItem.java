@@ -1,4 +1,4 @@
-package designPatterns.combination;
+package designPatterns.composite;
 
 public class MenuItem extends MenuComponent {
     public MenuItem(String name, int level) {

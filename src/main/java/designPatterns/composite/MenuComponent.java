@@ -1,4 +1,4 @@
-package designPatterns.combination;
+package designPatterns.composite;
 
 public abstract class MenuComponent {
     protected String name;
